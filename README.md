@@ -1,10 +1,11 @@
 # Erald-OSINT
 
-![Status](https://img.shields.io/badge/status-dalam%20pengembangan-orange)
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey)
 ![Size](https://img.shields.io/github/repo-size/eraldhq/Erald-OSINT)
 ![Last Commit](https://img.shields.io/github/last-commit/eraldhq/Erald-OSINT)
+![Stars](https://img.shields.io/github/stars/eraldhq/Erald-OSINT?style=social)
+![Forks](https://img.shields.io/github/forks/eraldhq/Erald-OSINT?style=social)
+![Issues](https://img.shields.io/github/issues/eraldhq/Erald-OSINT)
+![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 Alat OSINT sederhana dengan antarmuka grafis untuk investigasi digital.
 
