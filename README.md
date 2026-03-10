@@ -10,7 +10,7 @@ Alat OSINT sederhana dengan antarmuka grafis untuk investigasi digital.
 ![Erald Osint](EraldOsint.png)
 
 ## Fitur
-- **Search Nick** - Cari username dan generate email
+- **Search Nick** - Cari username dan email
 - **Search IP** - Lacak lokasi IP dan informasi ISP
 - **Search Mail** - Generate variasi email dari username
 - **Analyze Domain** - Lihat catatan DNS (A, MX, TXT, NS)
