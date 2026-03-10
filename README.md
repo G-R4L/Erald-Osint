@@ -1,5 +1,7 @@
 # Erald-OSINT
 
+![Status](https://img.shields.io/badge/status-dalam%20pengembangan-orange)
+
 Alat OSINT sederhana dengan antarmuka grafis untuk investigasi digital.
 
 ![Erald Osint](EraldOsint.png)
