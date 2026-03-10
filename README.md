@@ -19,5 +19,5 @@ Alat OSINT sederhana dengan antarmuka grafis untuk investigasi digital.
 
 ## Instalasi
 ```bash
-pip install webview requests
+pip install pywebview requests
 python Erald-OSINT.py
