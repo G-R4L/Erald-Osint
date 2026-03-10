@@ -6,6 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey)
 
 Alat OSINT sederhana dengan antarmuka grafis untuk investigasi digital.
+
 ![Erald Osint](EraldOsint.png)
 
 ## Fitur
