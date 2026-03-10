@@ -2,6 +2,8 @@
 
 Alat OSINT sederhana dengan antarmuka grafis untuk investigasi digital.
 
+![Erald Osint](EraldOsint.png)
+
 ## Fitur
 - **Search Nick** - Cari username dan generate email
 - **Search IP** - Lacak lokasi IP dan informasi ISP
